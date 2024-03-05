@@ -131,7 +131,3 @@ const PLANET = {
         container.append(div2)
      
     }
-
-
-
-    
