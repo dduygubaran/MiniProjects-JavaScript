@@ -101,7 +101,7 @@ const PLANET = {
     function containerUI (img,text) {
         const div = document.createElement('div')
         div.setAttribute('style', 'width:1000px; margin:auto ')
-        div.style.backgroundColor = 'rgba(255,255,255,0.3)'
+        div.style.backgroundColor = 'rgba(255,255,255,0.1)'
 
         let image = document.createElement("img");
         image.src = `../solarSystem/images/${img}`;
