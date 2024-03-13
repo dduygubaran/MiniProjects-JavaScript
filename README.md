@@ -11,3 +11,10 @@
 ![Screenshot from 2024-03-07 15-51-21](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/e4ffae5e-622d-4389-8dc4-9687f740f1d7)
 
 ![Screenshot from 2024-03-07 15-51-30](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/ea87a290-fa19-4b9a-a61e-7166aca5b794)
+
+## World Countries List
+
+![Screenshot from 2024-03-13 15-39-27](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/068d20ca-2771-49a5-979b-e66522befe43)
+
+![Screenshot from 2024-03-13 15-39-39](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/b847c7d0-1e5f-493e-a970-8ecfa7658f4b)
+
