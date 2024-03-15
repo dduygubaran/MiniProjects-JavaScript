@@ -1,0 +1,54 @@
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 60px;
+  color: #fff;
+  letter-spacing: 3rem;
+  margin-top: 100px;
+  margin-left: 150px;
+  color: black;
+}
+
+.definition {
+  height: 80px;
+  margin: 0 150px;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium, sans-serif";
+  color: black;
+  background-color: #dec3b8;
+  padding-top: 40px;
+}
+
+.paragraph-outer {
+  margin: 40px 130px;
+}
+
+p {
+  font-size: 26px;
+  margin: 10px 20px;
+  font-family: "Nunito";
+}
+
+.all-cards {
+  margin: 50px 150px;
+  display: flex;
+  justify-content: center; /*   div'leri yatayda hizalamak */
+  align-items: center; /* div'leri dikeyde hizalamak */
+}
+
+.card-1, .card-2, .card-3 {
+  background-color: #eeebf0;
+  border-radius: 10px;
+  display: flex;
+  align-items: center; /* yazıyı yatayda ortalama */
+  justify-content: center; /* yazıyı dikeyde ortalama */
+  font-family: "Nunito";
+  margin: 0 auto;
+  height: 200px;
+  width: 350px;
+}
+
+.prgraph-tech {
+  margin-top: 100px;
+  margin-left: 140px;
+  font-family: "Nunito";
+}
