@@ -18,3 +18,8 @@
 
 ![Screenshot from 2024-03-13 15-39-39](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/b847c7d0-1e5f-493e-a970-8ecfa7658f4b)
 
+## Portfolio
+
+![Screenshot from 2024-03-15 15-23-16](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/ddfd47b4-837b-439c-82ac-f377e01a6c8e)
+
+![Screenshot from 2024-03-15 15-23-42](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/74867c02-783f-471b-a5f3-374203b9cdb4)
