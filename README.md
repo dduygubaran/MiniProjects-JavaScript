@@ -20,6 +20,6 @@
 
 ## Portfolio
 
-![Screenshot from 2024-03-15 15-23-16](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/ddfd47b4-837b-439c-82ac-f377e01a6c8e)
+![Screenshot from 2024-03-15 15-28-03](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/778bc87f-1ece-4546-9049-6bfd585aa003)
 
 ![Screenshot from 2024-03-15 15-23-42](https://github.com/dduygubaran/MiniProjects-JavaScript/assets/83429611/74867c02-783f-471b-a5f3-374203b9cdb4)
